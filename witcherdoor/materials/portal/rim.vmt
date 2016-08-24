@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "portal/rim"
+	"$additive" 1
+	"$translucent" 1
+	"$model" 1
+	"$basetexturetransform" "center 1.95 .5 scale 0.48 0.97 rotate 0 translate 0 0"
+}
